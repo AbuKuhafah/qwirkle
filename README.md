@@ -1,2 +1,2 @@
-# ASA
-Advance Programming Technology_Assignment 2
+# Qwirkle
+Qwirkle game in C++
